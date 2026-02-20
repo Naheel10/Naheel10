@@ -12,11 +12,11 @@
 
 Hey! I'm **Naheel Mansoor** — a passionate developer who loves building cool things and solving interesting problems. I'm always learning, always shipping.
 
-- 🔭 Currently working on: **[Your current project]**
-- 🌱 Currently learning: **[What you're studying]**
-- 💬 Ask me about: **[Your strengths]**
-- 📍 Based in: **[Your location]**
-- 📫 Reach me at: **[your@email.com]**
+- 🔭 Currently working on: **AI Automation for Dental Clinics**
+- 🌱 Currently learning: **Foundation Models**
+- 💬 Ask me about: **Cloud and Distributed Systems**
+- 📍 Based in: **Nadison, WI**
+- 📫 Reach me at: **naheel@wisc.edu**
 
 ---
 
@@ -56,20 +56,17 @@ Hey! I'm **Naheel Mansoor** — a passionate developer who loves building cool t
 ## 📞 Connect & Contact Me!
 
 <p>
-  <a href="mailto:your@email.com">📧 Email Me!</a>
+  <a href="naheel@wisc.edu">📧 Email Me!</a>
 </p>
 
 <p>
   <a href="https://github.com/Naheel10" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/naheel-mansoor/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
+  <a href="https://www.instagram.com/naheeel_/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
