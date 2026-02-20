@@ -15,7 +15,7 @@ Hey! I'm **Naheel Mansoor** — a passionate developer who loves building cool t
 - 🔭 Currently working on: **AI Automation for Dental Clinics**
 - 🌱 Currently learning: **Foundation Models**
 - 💬 Ask me about: **Cloud and Distributed Systems**
-- 📍 Based in: **Nadison, WI**
+- 📍 Based in: **Madison, WI**
 - 📫 Reach me at: **naheel@wisc.edu**
 
 ---
