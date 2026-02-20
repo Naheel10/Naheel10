@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-    <a href="https://github.com/Naheel10/Naheel10/blob/main/header.gif" align="center">
+    <a href="https://github.com/Naheel10/Naheel10/blob/main/header.svg" align="center">
       <img src="header.svg" width="800" height="400" >
     </a>
   <br>
