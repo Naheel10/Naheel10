@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Naheel10\&color=green\&style=flat-square\&label=Profile+Views)
 
-As Of 2026
+
 
 ---
 
