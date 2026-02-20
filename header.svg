@@ -28,7 +28,7 @@
 					text-align: center;
 				}
 				h1 {
-					font-size: 40px;
+					font-size: 38px;
 					line-height: 1.3;
 					letter-spacing: 5px;
 					text-transform: uppercase;
@@ -52,7 +52,7 @@
 			</style>
 			<div class="container">
 				<h1>Hi! I'm Naheel Mansoor!</h1>
-				<p>✨ Developer · Builder · Leader ✨</p>
+				<p>✨ Developer · Builder · Creator ✨</p>
 			</div>
 		</div>
 	</foreignObject>
