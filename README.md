@@ -22,14 +22,14 @@ Hey! I'm **Naheel Mansoor** — a passionate developer who loves building cool t
 
 ## 🛠️ Languages I Know & Use
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=A8B9CC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
 
 ## ⚙️ Frameworks & Tools I Know & Use
 
@@ -41,24 +41,15 @@ Hey! I'm **Naheel Mansoor** — a passionate developer who loves building cool t
 ![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat&logo=fastapi&logoColor=009688)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=326CE5)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FFCA28)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=FF6C37)
-
-## 📚 Things I'm Learning
-
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=ffffff)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=00ADD8)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform&logoColor=7B42BC)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=F05138)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=54C5F8)
 
 ---
 
